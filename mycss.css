@@ -1,0 +1,42 @@
+body {
+    font-family: kanit;
+    background-color: #050505;
+}
+
+h1 {
+    font-size: 64px;
+    margin-bottom: 0%;
+    color: #BEDD00;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    color: #C4C4C4;
+    text-align: center;
+    padding-bottom: 24px;
+}
+
+
+table {
+    width: 1200px;
+    border-collapse: separate;
+    border: solid #C4C4C4 4px;
+    border-radius: 100px;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+}
+
+.tdcolumn {
+    color: #BEDD00;
+    font-size: 16px;
+    padding: 24px;
+}
+
+.text {
+    color: white;
+    height: 64px;
+    font-size: 16px;
+    padding: 24px;
+}
